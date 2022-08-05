@@ -1,5 +1,5 @@
 # Hola!!!, 👋🏻 I am Sagar Parmar.
-👨🏻‍💼 Working as a Site Reliability Engineering/Consultant DevOps. 
+👨🏻‍💼 Working as a Site Reliability Engineering/DevOps Consultant. 
 
 - ✨ Areas of interests: -
   - Cloud.
