@@ -1,6 +1,6 @@
-# Hola Everyone, 👋 I am Sagar Parmar.
+# Hola!!!, 👋 I am Sagar Parmar.
 
-- I am working as Site Reliability Engineering.
+- I am working as Site Reliability Engineering/Consultant DevOps.
 
 - My area of interest is: -
   - Cloud.
@@ -12,7 +12,8 @@
 - 👀 Focusing on: -
   - Zero Down time Infra.
   - Automation.
-  - Self Healing Infra
+  - Self Healing Infra.
+  - Monitoring and Observability stack.
 
 - 🌱 I’m currently learning
   - Golang.
