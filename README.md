@@ -1,7 +1,6 @@
 # Hola!!!, 👋 I am Sagar Parmar.
 
 - I am working as Site Reliability Engineering/Consultant DevOps.
-
 - My area of interest is: -
   - Cloud.
   - Kubernetes (AKS, EKS, DO, GCP and on-premise).
