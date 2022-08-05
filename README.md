@@ -1,4 +1,4 @@
-# Hola!!!, 👋 I am Sagar Parmar.
+# Hola!!!, 👋🏻 I am Sagar Parmar.
 👨🏻‍💼 Working as a Site Reliability Engineering/Consultant DevOps. 
 
 - ✨ Areas of interests: -
