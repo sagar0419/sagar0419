@@ -6,14 +6,14 @@
   - Kubernetes (AKS, EKS, DO, GCP and on-premise).
   - CI/CD Pipelines (GitHub Action, Argo CD, Jenkins, Azure DevOps, Gitlab).
   - Helm.
-  - Monitoring.
+  - Observability.
   - Automation (Ansible, Terraform).
   
 - 👀 Focusing on: -
   - Zero Down time Infra.
   - Automation.
   - Self Healing Infra.
-  - Monitoring and Observability stack.
+  - Observability stack.
 
 - 🌱 I’m currently learning
   - Golang.
