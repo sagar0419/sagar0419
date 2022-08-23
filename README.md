@@ -5,7 +5,7 @@
 
 - ✨ Areas of interests: -
   - Cloud.
-  - Kubernetes (AKS, EKS, DO, GCP and on-premise).
+  - Kubernetes (AKS, EKS, DO, GKE and on-premise).
   - CI/CD Pipelines (GitHub Action, Argo CD, Jenkins, Azure DevOps, Gitlab).
   - Helm.
   - Observability.
