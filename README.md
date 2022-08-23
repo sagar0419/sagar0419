@@ -1,4 +1,4 @@
-#  <h3 Hola!!!, 👋🏻 I am Sagar Parmar. </h3>
+# Hola!!!, 👋🏻 I am Sagar Parmar.
 👨🏻‍💼 Working as a Site Reliability Engineering / DevOps Consultant. 
 
 - ✨ Areas of interests: -
@@ -19,19 +19,15 @@
   - Golang.
   
 - 📫 How to reach me: -
-- <h4> 📫 How to reach me: -</h3>
   - 📧 skype :- sagar.rajput27@live.com
   - 📫 E-mail: - sagar.rajput27@live.com
   - [Linkedin](https://www.linkedin.com/in/sagar-parmar-834403a6)
+  
   - <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar0419&show_icons=true&locale=en" alt="sagar0419" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar0419&label=Profile%20views&color=0e75b6&style=flat" alt="sagar0419" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar0419" alt="sagar0419" /></a> </p>
-
-<h4> How to reach me: -</h3>
-<p align="left">
-</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar0419&show_icons=true&locale=en" alt="sagar0419" /></p>
