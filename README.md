@@ -18,7 +18,7 @@
   - Observability stack.
 
 - 🌱 I’m currently learning
-  - Golang. <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+  - Golang.  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   
 - 📫 How to reach me: -
   - 📧 skype :- sagar.rajput27@live.com
