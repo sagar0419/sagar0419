@@ -4,6 +4,7 @@
 👨🏻‍💼 Working as a Site Reliability Engineering / DevOps Consultant. 
 
 - ✨ Areas of interests: -
+  - Platform Engineering
   - Cloud.
   - Kubernetes (AKS, EKS, DO, GKE and on-premises).
   - CI/CD Pipelines (GitHub Action, Argo CD, Jenkins, Azure DevOps, Gitlab).
