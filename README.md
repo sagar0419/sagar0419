@@ -22,7 +22,6 @@
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25" height="25"/> Golang.
   
 - 📫 How to reach me: -
-  - 📧 skype :- sagar.rajput27@live.com
   - 📫 E-mail: - sagar.rajput27@live.com 
   - [![Twitter Badge](https://img.shields.io/badge/-@sagarrajput27-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sagarrajput27)](https://twitter.com/sagarrajput27) 
   - [![LinkedIn](https://img.shields.io/badge/-Sagar%20Parmar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar-parmar-834403a6/)](https://www.linkedin.com/in/sagar-parmar-834403a6/)
